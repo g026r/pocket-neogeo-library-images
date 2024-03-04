@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<game name="Baseball Stars">
+		<rom crc="4781ae84"/>
+	</game>
+	<game name="King of Fighters R-1">
+		<rom crc="dceb7e11"/>
+	</game>
+	<game name="Melon-chan no Seichou Nikki">
+		<rom crc="cb42cfa4"/>
+	</game>
+	<game name="Neo Cherry Master">
+		<rom crc="5c067579"/>
+	</game>
+	<game name="Neo Geo Cup '98">
+		<rom crc="33add5bd"/>
+	</game>
+	<game name="Pocket Tennis">
+		<rom crc="4b1eed05"/>
+	</game>
+	<game name="Renketsu Puzzle Tsunagete Pon!">
+		<rom crc="ce09f534"/>
+	</game>
+	<game name="Samurai Shodown!">
+		<rom crc="32e4696a"/>
+	</game>
+	<game name="Shougi no Tatsujin">
+		<rom crc="f34d0c9b"/>
+	</game>
+</datafile>
