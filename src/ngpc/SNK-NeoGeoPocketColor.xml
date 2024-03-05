@@ -263,11 +263,10 @@
 	<game name="Puyo Pop (v06)">
 		<rom crc="5c649d1e"/>
 	</game>
-	<!-- Don't have a CRC for this one -->
-<!-- 	<game name="Puzzle Bobble Mini (v10)">
+	<game name="Puzzle Bobble Mini (v10)">
 		<category>Games</category>
-		<rom crc="e3d9f38e"/>
-	</game> -->
+		<rom crc="e69eae3e"/>
+	</game>
 	<game name="Puzzle Link">
 		<rom crc="8d0610ac"/>
 	</game>
