@@ -1,0 +1,361 @@
+<?xml version="1.0"?>
+<datafile>
+	<game name="Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana">
+		<rom crc="12afacb0"/>
+	</game>
+	<game name="Baseball Stars Color">
+		<rom crc="ffa7e88d"/>
+	</game>
+	<game name="Big Bang Pro Wrestling">
+		<rom crc="b783c372"/>
+	</game>
+	<game name="Bikkuriman 2000 - Viva! Pocket Festival!">
+		<rom crc="7a2d7635"/>
+	</game>
+	<game name="Biomotor Unitron (Japan)">
+		<rom crc="ecee99f3"/>
+	</game>
+	<game name="Biomotor Unitron (USA, Europe)">
+		<rom crc="3807df4f"/>
+	</game>
+<!-- 	<game name="Biomotor Unitron (Japan) (Demo)">
+		<rom crc="c6fb900f"/>
+	</game> -->
+	<game name="Bust-A-Move Pocket">
+		<category>Games</category>
+		<rom crc="85fe6ae3"/>
+	</game>
+<!-- 	<game name="Bust-A-Move Pocket (USA) (Beta)">
+		<category>Games</category>
+		<rom crc="78a1361d"/>
+	</game> -->
+	<game name="Cool Boarders Pocket">
+		<rom crc="833f9c22"/>
+	</game>
+	<game name="Cool Cool Jam">
+		<rom crc="4fda5d8a"/>
+	</game>
+<!-- 	<game name="Cool Cool Jam (USA) (Sample)">
+		<rom crc="4d8d27f0"/>
+	</game> -->
+	<game name="Crush Roller">
+		<rom crc="f20ff9f2"/>
+	</game>
+	<game name="Dark Arms - Beast Buster 1999">
+		<rom crc="6f353f34"/>
+	</game>
+	<game name="Delta Warp">
+		<rom crc="add4fdff"/>
+	</game>
+<!-- 	<game name="Delta Warp (Japan) (Demo)">
+		<rom crc="a3c89788"/>
+	</game> -->
+	<game name="Densetsu no Ogre Battle Gaiden - Zenobia no Ouji">
+		<rom crc="eeeefd6a"/>
+	</game>
+	<game name="Densha de Go! 2 on Neo Geo Pocket">
+		<rom crc="d5ced9e9"/>
+	</game>
+<!-- 	<game name="Densha de Go! 2 on NeoGeo Pocket (Japan) (Demo)">
+		<rom crc="2fc4623e"/>
+	</game> -->
+	<game name="Dive Alert - Becky's Version">
+		<rom crc="83db5772"/>
+	</game>
+	<game name="Dive Alert - Burn Hen">
+		<rom crc="c213941d"/>
+	</game>
+<!-- 	<game name="Dive Alert - Burn Hen (Japan) (Beta)">
+		<rom crc="d9817a88"/>
+	</game> -->
+	<game name="Dive Alert - Matt's Version">
+		<rom crc="ef75081b"/>
+	</game>
+	<game name="Dive Alert - Rebecca Hen">
+		<rom crc="3c4af4f5"/>
+	</game>
+	<game name="Dokodemo Mahjong">
+		<rom crc="78c21b5e"/>
+	</game>
+	<game name="Dynamite Slugger">
+		<rom crc="7f1779cd"/>
+	</game>
+	<game name="Evolution - Eternal Dungeons">
+		<rom crc="be47e531"/>
+	</game>
+	<game name="Fantastic Night Dreams - Cotton (Europe)">
+		<rom crc="1bf412f5"/>
+	</game>
+	<game name="Fantastic Night Dreams - Cotton (Japan)">
+		<rom crc="b8a12409"/>
+	</game>
+	<game name="Faselei! (Europe)">
+		<rom crc="e705e30e"/>
+	</game>
+	<game name="Faselei! (Japan)">
+		<rom crc="8f585838"/>
+	</game>
+	<game name="Fatal Fury F-Contact">
+		<rom crc="a9119b5a"/>
+	</game>
+	<game name="Ganbare Neo Poke-kun">
+		<rom crc="6df986a3"/>
+	</game>
+	<game name="Infinity Cure ">
+		<rom crc="32dc2aa2"/>
+	</game>
+	<game name="Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori.">
+		<rom crc="84580d66"/>
+	</game>
+	<game name="King of Fighters R-2">
+		<rom crc="47e490a2"/>
+	</game>
+<!-- 	<game name="King of Fighters R-2 - Pocket Fighting Series (Japan) (Demo)">
+		<rom crc="e3ae79c0"/>
+	</game> -->
+	<game name="King of Fighters, The - Battle de Paradise">
+		<rom crc="77e37bac"/>
+	</game>
+	<game name="Koi Koi Mahjong">
+		<rom crc="b51c3eba"/>
+	</game>
+	<game name="Last Blade, The - Beyond the Destiny">
+		<rom crc="94fcfd1e"/>
+	</game>
+	<game name="Magical Drop Pocket (Japan)">
+		<rom crc="694ce2dc"/>
+	</game>
+	<game name="Magical Drop Pocket (USA, Europe)">
+		<rom crc="7712f82d"/>
+	</game>
+<!-- 	<game name="Magical Drop Pocket (Japan) (Demo)">
+		<rom crc="d76f1a47"/>
+	</game> -->
+	<game name="Memories Off - Pure">
+		<rom crc="a7926e90"/>
+	</game>
+	<game name="Metal Slug - 1st Mission">
+		<rom crc="4ff91807"/>
+	</game>
+	<game name="Metal Slug - 2nd Mission">
+		<rom crc="ac549144"/>
+	</game>
+<!-- 	<game name="Metal Slug - 2nd Mission (World) (Demo)">
+		<rom crc="8b1647d4"/>
+	</game> -->
+	<game name="Mezase! Kanji Ou">
+		<rom crc="a52e1c82"/>
+	</game>
+	<game name="Mizuki Shigeru no Youkai Shashinkan">
+		<rom crc="dde08335"/>
+	</game>
+	<game name="Neo 21 - Real Casino Series">
+		<rom crc="0a2a2f28"/>
+	</game>
+	<game name="Neo Baccarat">
+		<rom crc="22aab454"/>
+	</game>
+<!-- 	<game name="Neo Baccarat - Real Casino Series (World) (Beta)">
+		<rom crc="80880498"/>
+	</game> -->
+	<!-- There are three of these. Check this one as well?) -->
+	<game name="Neo Baccarat (v11)">
+		<rom crc="495071a9"/>
+	</game>
+	<game name="Neo Cherry Master Color">
+		<rom crc="a6dca584"/>
+	</game>
+<!-- 	<game name="Neo Cherry Master Color - Real Casino Series (World) (Demo)">
+		<rom crc="939a9912"/>
+	</game> -->
+	<game name="Neo Derby Champ Daiyosou">
+		<rom crc="5a053559"/>
+	</game>
+<!-- 	<game name="Neo Dragon's Wild - Real Casino Series (World) (v1.11)">
+		<rom crc="225fd7f9"/>
+	</game> -->
+	<game name="Neo Dragon's Wild (v13)">
+		<rom crc="5d028c99"/>
+	</game>
+	<game name="Neo Geo Cup '98 Plus">
+		<rom crc="c0da4fe9"/>
+	</game>
+	<game name="Neo Mystery Bonus">
+		<rom crc="e79dc5b3"/>
+	</game>
+	<!-- One of these is v1.1 & one isn't -->
+	<game name="Neo Poke Pro Yakyuu (v32)">
+		<rom crc="f4d78f12"/>
+	</game>
+	<game name="Neo Poke Pro Yakyuu">
+		<rom crc="0e5b3438"/>
+	</game>
+	<game name="Neo Turf Masters">
+		<rom crc="317a66d2"/>
+	</game>
+	<game name="Nigeronpa">
+		<rom crc="3cc3e269"/>
+	</game>
+	<game name="Oekaki Puzzle">
+		<rom crc="59ab1e0f"/>
+	</game>
+	<game name="Pac-Man">
+		<rom crc="21e8cc15"/>
+	</game>
+	<game name="Pachi-Slot Aruze Oukoku Pocket - Porcano 2">
+		<rom crc="96ddfbe3"/>
+	</game>
+	<!-- There are 2 Aztecas in the Library but only one I could find a checksum for -->
+	<game name="Pachi-Slot Aruze Oukoku Pocket - Azteca">
+		<rom crc="25b783b5"/>
+	</game>
+	<game name="Pachi-Slot Aruze Oukoku Pocket - Dekahel 2">
+		<rom crc="346f3c46"/>
+	</game>
+	<game name="Pachi-Slot Aruze Oukoku Pocket - Delsol 2">
+		<rom crc="1ea69db1"/>
+	</game>
+	<game name="Pachi-Slot Aruze Oukoku Pocket - e-Cup">
+		<rom crc="0a7c32df"/>
+	</game>
+<!-- 	<game name="Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan) (v1.02)">
+		<rom crc="cfd1c8f2"/>
+	</game> -->
+	<game name="Pachi-Slot Aruze Oukoku Pocket - Hanabi (v04)">
+		<rom crc="a0c26f9b"/>
+	</game>
+	<game name="Pachi-Slot Aruze Oukoku Pocket - Oohanabi">
+		<rom crc="8a88c50f"/>
+	</game>
+	<game name="Pachi-Slot Aruze Oukoku Pocket - Ward of Lights">
+		<rom crc="d46cbc54"/>
+	</game>
+	<game name="Pachinko Hisshou Guide - Pocket Parlor">
+		<rom crc="c3d6b28b"/>
+	</game>
+	<game name="Party Mail">
+		<rom crc="4da8a1c0"/>
+	</game>
+<!-- 	<game name="Party Mail (Japan) (Beta)">
+		<rom crc="f2284a95"/>
+	</game> -->
+	<game name="Picture Puzzle">
+		<rom crc="67e6dc56"/>
+	</game>
+	<game name="Pocket Love - if">
+		<rom crc="c2ee1ee5"/>
+	</game>
+	<game name="Pocket Reversi (Europe)">
+		<rom crc="20f09880"/>
+	</game>
+	<game name="Pocket Reversi (Japan)">
+		<rom crc="fb0b55b8"/>
+	</game>
+	<game name="Pocket Tennis Color">
+		<rom crc="d8590b96"/>
+	</game>
+	<game name="Prize Game - PP-AA01 Pusher Program">
+		<rom crc="78acdbcb"/>
+	</game>
+<!-- 	<game name="Puyo Pop (World) (Beta)">
+		<rom crc="3090b2fd"/>
+	</game> -->
+	<game name="Puyo Pop (v06)">
+		<rom crc="5c649d1e"/>
+	</game>
+	<game name="Puzzle Bobble Mini (v10)">
+		<category>Games</category>
+		<rom crc="e3d9f38e"/>
+	</game>
+<!-- 	<game name="Puzzle Bobble Mini (Japan, Europe) (Beta)">
+		<category>Games</category>
+		<rom crc="e69eae3e"/>
+	</game> -->
+	<game name="Puzzle Link">
+		<rom crc="8d0610ac"/>
+	</game>
+	<game name="Puzzle Link 2">
+		<rom crc="ba9ca21c"/>
+	</game>
+	<game name="Renketsu Puzzle Tsunagete Pon! Color">
+		<rom crc="c3f3e83c"/>
+	</game>
+	<game name="Rockman - Battle &amp; Fighters">
+		<rom crc="9c861e49"/>
+	</game>
+<!-- 	<game name="Rockman - Battle &amp; Fighters (Japan) (Demo)">
+		<rom crc="16a98ac4"/>
+	</game> -->
+	<game name="Samurai Shodown! 2">
+		<rom crc="4f7fb156"/>
+	</game>
+	<game name="Shanghai Mini">
+		<rom crc="90732d53"/>
+	</game>
+<!-- 	<game name="Shanghai Mini (World) (Beta 1)">
+		<rom crc="79620c3f"/>
+	</game>
+	<game name="Shanghai Mini (World) (Beta 2)">
+		<rom crc="920af0ed"/>
+	</game> -->
+	<game name="Shinki Sekai Evolution - Hateshinai Dungeon">
+		<rom crc="e006f42f"/>
+	</game>
+	<game name="Shougi no Tatsujin Color">
+		<rom crc="1f2872ed"/>
+	</game>
+	<game name="SNK Gals' Fighters (Japan)">
+		<rom crc="6a9ffa47"/>
+	</game>
+	<game name="SNK Gals' Fighters (USA, Europe)">
+		<rom crc="b02c2be7"/>
+	</game>
+	<game name="SNK vs. Capcom - Card Fighters 2 - Expand Edition">
+		<rom crc="ccbcfda7"/>
+	</game>
+	<game name="SNK vs. Capcom - Card Fighters' Clash - Capcom Version">
+		<rom crc="80ce137b"/>
+	</game>
+	<game name="SNK vs. Capcom - Card Fighters' Clash - SNK Version">
+		<rom crc="94b63a97"/>
+	</game>
+<!-- 	<game name="SNK vs. Capcom - Gekitotsu Card Fighters (Japan) (Demo)">
+		<rom crc="4a41a56e"/>
+	</game> -->
+	<game name="SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version">
+		<rom crc="9217159b"/>
+	</game>
+	<game name="SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version">
+		<rom crc="7065295c"/>
+	</game>
+<!-- 	<game name="SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan) (Demo)">
+		<rom crc="e70e3f1a"/>
+	</game> -->
+	<game name="SNK vs. Capcom - The Match of the Millennium">
+		<rom crc="b173030a"/>
+	</game>
+<!-- 	<game name="SNK vs. Capcom - The Match of the Millennium (Japan) (Demo)">
+		<rom crc="1e19e307"/>
+	</game> -->
+	<game name="Sonic The Hedgehog - Pocket Adventure">
+		<rom crc="356f0849"/>
+	</game>
+<!-- 	<game name="Sonic The Hedgehog - Pocket Adventure (World) (Demo)">
+		<rom crc="622176ce"/>
+	</game>
+	<game name="Sonic The Hedgehog - Pocket Adventure (World) (Beta) (1999-10-22)">
+		<rom crc="45fc3bca"/>
+	</game> -->
+	<game name="Soreike!! Hanafuda Doujou">
+		<rom crc="05fa3eb0"/>
+	</game>
+	<game name="Super Real Mahjong - Premium Collection">
+		<rom crc="c6e620c3"/>
+	</game>
+	<game name="Tsunagete Pon! 2">
+		<rom crc="129091bb"/>
+	</game>
+<!-- 	<game name="Wrestling Madness (USA, Europe) (Demo)">
+		<rom crc="16b0be9b"/>
+	</game> -->
+</datafile>
