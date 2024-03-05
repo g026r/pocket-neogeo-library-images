@@ -101,10 +101,10 @@
 	<game name="Ganbare Neo Poke-kun">
 		<rom crc="6df986a3"/>
 	</game>
-	<game name="Infinity Cure ">
+	<game name="Infinity Cure">
 		<rom crc="32dc2aa2"/>
 	</game>
-	<game name="Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori.">
+	<game name="Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori">
 		<rom crc="84580d66"/>
 	</game>
 	<game name="King of Fighters R-2">
@@ -263,13 +263,10 @@
 	<game name="Puyo Pop (v06)">
 		<rom crc="5c649d1e"/>
 	</game>
-	<game name="Puzzle Bobble Mini (v10)">
+	<!-- Don't have a CRC for this one -->
+<!-- 	<game name="Puzzle Bobble Mini (v10)">
 		<category>Games</category>
 		<rom crc="e3d9f38e"/>
-	</game>
-<!-- 	<game name="Puzzle Bobble Mini (Japan, Europe) (Beta)">
-		<category>Games</category>
-		<rom crc="e69eae3e"/>
 	</game> -->
 	<game name="Puzzle Link">
 		<rom crc="8d0610ac"/>
