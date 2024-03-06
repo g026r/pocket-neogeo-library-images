@@ -1,5 +1,5 @@
 # pocket-neogeo-library-images
-Neo Geo Pocket &amp; Pocket Color library images for the Analogue Pocket. Mostly based off the images from [libretro-thumbnails](https://github.com/libretro-thumbnails/), with a few corrections applied where their images were incorrect.
+Neo Geo Pocket &amp; Pocket Color library images for the Analogue Pocket. Partially based off the images from [libretro-thumbnails](https://github.com/libretro-thumbnails/), with quite a few corrections applied where their images were incorrect or necessitated expansion to allow for various regions.
 
 Check the [releases link](https://github.com/g026r/pocket-neogeo-library-images/releases) for the latest zips.
 
