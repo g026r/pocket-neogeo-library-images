@@ -1,5 +1,10 @@
 <?xml version="1.0"?>
 <datafile>
+	<regions>
+		<name>Europe</name>
+		<name>USA</name>
+		<name>Japan</name>
+	</regions>
 	<game name="Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana">
 		<rom crc="12afacb0"/>
 	</game>
